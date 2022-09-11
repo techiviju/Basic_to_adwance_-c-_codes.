@@ -1,2 +1,3 @@
 # Basic_to_adwance_-c-_codes.
 Hi just i am writing here basics c language codes for only beginers .... thank you....
+#include<stdio.h>
